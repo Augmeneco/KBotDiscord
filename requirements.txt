@@ -1,0 +1,7 @@
+bs4
+pillow
+PySocks
+psutil
+requests
+py-cord
+cairosvg
